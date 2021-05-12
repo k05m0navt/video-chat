@@ -1,5 +1,7 @@
+import { LoginRouter } from "./routers";
+
 function App() {
-    return <div className="App">-</div>;
+    return <LoginRouter />;
 }
 
 export default App;
